@@ -1,6 +1,6 @@
 {
   "name": "parcel-transform-remark",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Markdown transformer plugin for Parcel 2",
   "main": "dist/index.js",
   "repository": "https://github.com/mvasigh/parcel-transform-remark.git",
